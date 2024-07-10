@@ -1,0 +1,12 @@
+{
+  "development": {
+    "dialect": "postgres",
+    "url": "postgres://default:vPCJV5yiA6en@ep-flat-sun-a4e4e1aj.us-east-1.aws.neon.tech:5432/verceldb?sslmode=require",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  }
+}
